@@ -1,5 +1,5 @@
 hide and Show passowrd toggle
 
-![alt text](image-1.png)
+![input image 1](image-1.png)
 
-![alt text](image.png)
+![input image 2](Media/inputBar2.png)
