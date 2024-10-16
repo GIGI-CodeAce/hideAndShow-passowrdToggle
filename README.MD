@@ -1,4 +1,4 @@
-hide and Show passowrd toggle
+hide and Show password toggle
 
 ![input image 1](Media/inputBar1.png)
 
